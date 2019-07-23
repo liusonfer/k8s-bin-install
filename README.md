@@ -32,7 +32,7 @@ etcd集群通常按应用规模大小应该有3、5或7个节点，以提供高�
 
 生成数字证书的操作过程仅需要在一个节点上执行即可，例如k8s-master01。
 
-~]$ git clone https://github.com/iKubernetes/k8s-certs-generator.git
+~]$ git clone https://github.com/liusonfer/k8s-certs-generator.git
 
 ~]$ cd k8s-certs-generator
 
